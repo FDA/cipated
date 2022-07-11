@@ -1,0 +1,13 @@
+__pycache__
+*.bak
+*egg-info
+build
+dist
+data
+docs/_build
+html
+.idea
+.ipynb_checkpoints
+.pytest_cache
+.vscode
+cipa.log
