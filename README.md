@@ -9,8 +9,9 @@ Proarrhythmia Assay [CiPA] initiative).
 
 For a use case example, see Alvarez-Baron et. al *"hERG block potencies for 5
 positive control drugs obtained per ICH E14/S7B Q&As best practices: impact of
-recording temperature and drug loss"*. J Pharamacol Tox Methods 2022. The
-original raw recordings as well as derived TED datasets, analysis scripts,
+recording temperature and drug loss"*. J Pharamacol Tox Methods 2022.
+[https://doi.org/10.1016/j.vascn.2022.107193](https://doi.org/10.1016/j.vascn.2022.107193).
+The original raw recordings as well as derived TED datasets, analysis scripts,
 tabulated results, figures, and reports generated using this package are also
 available at [https://osf.io/6w5vn/](https://osf.io/6w5vn/).
 
